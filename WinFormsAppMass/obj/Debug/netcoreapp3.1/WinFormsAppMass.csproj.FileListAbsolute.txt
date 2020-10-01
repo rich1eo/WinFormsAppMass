@@ -1,0 +1,15 @@
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.exe
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.deps.json
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.runtimeconfig.json
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.runtimeconfig.dev.json
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.dll
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\bin\Debug\netcoreapp3.1\WinFormsAppMass.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.csprojAssemblyReference.cache
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.AssemblyInfoInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.AssemblyInfo.cs
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.csproj.CoreCompileInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.dll
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.genruntimeconfig.cache
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.Form1.resources
+C:\Users\rich1\RiderProjects\WinFormsAppMass\WinFormsAppMass\obj\Debug\netcoreapp3.1\WinFormsAppMass.csproj.GenerateResource.cache
